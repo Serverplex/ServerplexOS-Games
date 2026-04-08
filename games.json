@@ -1,0 +1,17 @@
+{
+  "games": [
+
+    {
+      "id":          "rtbowl",
+      "name":        "Retro Bowl",
+      "icon":        "🏈",
+      "cover":       "https://cdn-1.webcatalog.io/catalog/poki-retro-bowl/poki-retro-bowl-icon-filled-256.png?v=1674454238752",
+      "url":         "https://playsnake.org",
+      "category":    "Arcade",
+      "author":      "Classic",
+      "description": "Test",
+      "downloadUrl": "",
+      "featured":    true
+    }
+  ]
+}
