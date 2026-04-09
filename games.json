@@ -2,16 +2,1395 @@
   "games": [
 
     {
-      "id":          "rtbowl",
-      "name":        "Retro Bowl",
-      "icon":        "🏈",
-      "cover":       "https://cdn-1.webcatalog.io/catalog/poki-retro-bowl/poki-retro-bowl-icon-filled-256.png?v=1674454238752",
-      "url":         "https://playsnake.org",
-      "category":    "Arcade",
-      "author":      "Classic",
-      "description": "Test",
+      "id":          "1v1-lol",
+      "name":        "1v1 .lol",
+      "icon":        "🔫",
+      "cover":       "https://worldsapps.com/img/apps/1508620125/icon-download-1v1-lol-battle-royale-game.jpg",
+      "url":         "https://cdn.jsdelivr.net/gh/Serverplex/EclipseOS-Games/Games/1-9/1v1.html",
+      "category":    "Action, Multiplayer",
+      "author":      "JustPlay.LOL",
+      "description": "1v1.LOL is a fast, competitive third‑person shooter where players build structures and battle in 1v1 duels, box fights, and mini battle‑royale modes. It mixes Fortnite‑style building with quick matchmaking and skill‑based gunplay.",
       "downloadUrl": "",
-      "featured":    true
+      "featured":    false
+    },
+
+        {
+      "id":          "2048",
+      "name":        "2048",
+      "icon":        "🔢",
+      "cover":       "https://logodix.com/logo/1649541.png",
+      "url":         "https://cdn.jsdelivr.net/gh/Serverplex/EclipseOS-Games/Games/1-9/2048.html",
+      "category":    "Puzzle",
+      "author":      "Gabriele Cirulli",
+      "description": "2048 is a sliding‑tile number puzzle where you combine matching tiles to reach the 2048 block. It’s simple to learn but surprisingly strategic, requiring planning, pattern recognition, and careful movement choices.",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "adventure-capitalist",
+      "name":        "Adventure Capitalist",
+      "icon":        "💰",
+      "cover":       "https://cdn2.steamgriddb.com/icon_thumb/29c5bc899fe290c1dcdab537dea8354d.png",
+      "url":         "https://cdn.jsdelivr.net/gh/Serverplex/EclipseOS-Games/Games/AdventureCapitalist.html",
+      "category":    "Strategy, Other",
+      "author":      "Hyper Hippo Games",
+      "description": "Adventure Capitalist is an idle business simulator where you invest in increasingly profitable ventures to grow your empire automatically. Progression is exponential, with upgrades, managers, and even entire planets to unlock as your wealth skyrockets.",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "among-us",
+      "name":        "Among Us",
+      "icon":        "🕵️‍♂️",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Action, Multiplayer, Other",
+      "author":      "Fan Made / Unknown",
+      "description": "This fan‑made version of Among Us recreates the core gameplay of completing tasks, identifying impostors, and surviving meetings in a simplified browser format. It keeps the social‑deduction feel while offering lightweight, fast matches without downloads.",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+        {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+    
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
+    },
+
+            {
+      "id":          "ID, can not be the same as another game",
+      "name":        "name",
+      "icon":        "Emoji that represents the game",
+      "cover":       "Image URL",
+      "url":         "JSDELIVR URL",
+      "category":    "Arcade, Action, Adventure, Puzzle, Sports, Strategy, Multiplayer, Other",
+      "author":      "Classic",
+      "description": "Description of the game",
+      "downloadUrl": "Dont Put yet",
+      "featured":    false
     }
+
+
   ]
 }
